@@ -27,7 +27,7 @@ public class Main {
     public static void main(String[] args) {
 
     try {
-        sistema = new Sistema("Senha123");
+        sistema = new Sistema("#Arthur123");
 
         System.out.println("Escolha a oopcao:");
         int opcao = -1;
